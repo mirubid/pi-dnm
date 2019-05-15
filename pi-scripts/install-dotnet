@@ -1,0 +1,4 @@
+sudo mkdir -p /bin/dotnet && sudo tar zxf dotnet-sdk-2.2.101-linux-arm.tar.gz -C /bin/dotnet
+
+export DOTNET_ROOT=/bin/dotnet 
+export PATH=$PATH:/bin/dotnet
