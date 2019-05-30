@@ -1,0 +1,3 @@
+cd ~
+cp -u -r drop/dnm/publish/* dnm
+chmod u+x dnm/pi-con
